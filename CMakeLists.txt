@@ -3,7 +3,7 @@
 cmake_minimum_required(VERSION 3.11-3.18)
 
 project(
-    VscodeCmakeHello
+    Cmake-HELLO
     VERSION 0.1
     DESCRIPTION "Small CMake example built with VSCode")
 
